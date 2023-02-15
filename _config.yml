@@ -1,17 +1,17 @@
 # Site settings
 title: Data Analyst Portfolio
 description: A Blog Portfolio created by Matt Lynnson E. Delgado
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Matt Lynnson E. Delgado
-user_description: A licensed Electronics Engineer and an Aspiring Data Analyst. Looking for more progression and improvement
+user_description: A licensed Electronics Engineer and an Aspiring Data Analyst. Looking for more progression and improvement. Uses Microsoft Excel, SQL, Power BI and Python for Exploratory Data Analysis, Data Cleaning, and Data Visualization to gather insights and make recommendations based on the insights discovered.
 user_title: Data Analyst
 email: Lynnson113@gmail.com
-linkedin_username: Matt Lynnson E. Delgado 
+linkedin_username: mattlynndelgado
 github_username:  MLynnson
-gplus_username:  
+ 
 
 # Google-analytics
 google-analytics:
